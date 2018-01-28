@@ -1,2 +1,3 @@
-# Learn-Python3-THW
-Learn Python3 The Hard Way
+# Learn-Python-THW
+Learn Python The Hard Way
+Include Python2 and Python3 version
